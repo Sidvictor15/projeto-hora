@@ -1,0 +1,30 @@
+body{
+    background-color: rgba(107, 165, 241);
+    font: normal 15pt Arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 30px; /* Adiciona espaçamento abaixo do header */
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    height: 350px;
+    margin: auto;
+    box-shadow: 3px 3px 10px;
+}
+footer{
+   text-align: center;
+   color: white;
+   font-style: italic;
+}
+div{
+    text-align: center;
+    padding: 8px;
+}
