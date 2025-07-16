@@ -19,10 +19,11 @@ section{
     margin: auto;
     box-shadow: 3px 3px 10px;
 }
-footer{
-   text-align: center;
-   color: white;
-   font-style: italic;
+footer > p{
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-style: oblique;
 }
 div{
     text-align: center;
